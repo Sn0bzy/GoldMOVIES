@@ -1,6 +1,6 @@
 # Gold MOVIES Wordpress Theme
 
-Gold MOVIES is simple and awesome movies template for Wordpress. You can create your own movies / trailers / TV Series website just in minutes. This theme allows you to monetize your website also. For more information on what Gold MOVIES Theme is, [CHECK REAL DEMO](http://wordpressmovies.themesgold.com/).
+Gold MOVIES is simple and awesome movies template for Wordpress. You can create your own movies / trailers / TV Series website just in minutes. This theme allows you to monetize your website also. For more information on what Gold MOVIES Theme is, [CHECK REAL DEMO](http://wpmovies.themesgold.com/).
 
 ## Theme Features ##
 
